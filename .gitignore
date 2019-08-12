@@ -4,3 +4,8 @@ yarn.lock
 mix-manifest.json
 package-lock.json
 *.map
+.idea/cookie-consent-box.iml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
