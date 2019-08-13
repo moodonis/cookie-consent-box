@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/adriandmitroca/cookie-consent-box.git"
+    "url": "https://github.com/moodonis/cookie-consent-box.git"
   },
   "keywords": [
     "adriandmitroca",
@@ -26,9 +26,9 @@
   "author": "Adrian Dmitroca",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/adriandmitroca/cookie-consent-box/issues"
+    "url": "https://github.com/moodonis/cookie-consent-box"
   },
-  "homepage": "https://github.com/adriandmitroca/cookie-consent-box",
+  "homepage": "https://github.com/moodonis/cookie-consent-box",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
