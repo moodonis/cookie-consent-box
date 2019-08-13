@@ -26,7 +26,7 @@
       .cookie-box__inner {
         display: flex;
         align-items: center;
-        padding: 25px 15px; } }
+        padding: 3px; } }
   .cookie-box__content {
     flex: 1;
     display: flex;
@@ -34,6 +34,7 @@
     .cookie-box__content__inner {
       flex: 1; }
   .cookie-box__icon {
+    display: none;
     margin-right: 20px;
     width: 44px;
     position: relative; }

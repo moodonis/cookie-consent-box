@@ -108,7 +108,7 @@ if (typeof __g == 'number') __g = global; // eslint-disable-line no-undef
 /* 3 */
 /***/ (function(module, exports) {
 
-var core = module.exports = { version: '2.5.6' };
+var core = module.exports = { version: '2.6.9' };
 if (typeof __e == 'number') __e = core; // eslint-disable-line no-undef
 
 
@@ -551,8 +551,8 @@ var languages = {
     learnMore: 'Mehr erfahren'
   },
   en: {
-    title: 'Cookie policy',
-    content: 'Our website uses cookies to analyze how the site is used and to ensure your experience is consistent between visits.',
+    title: 'Cookies policy',
+    content: 'Our website uses cookies to analyse how the site is used and to ensure your experience is consistent between visits.',
     accept: 'Accept',
     learnMore: 'Learn more'
   },
